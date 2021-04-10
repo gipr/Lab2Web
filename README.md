@@ -18,18 +18,10 @@
 ![Screenshot (50)](https://user-images.githubusercontent.com/65975985/114258105-7e96a480-99ee-11eb-82ce-8ae5dca9fa38.png)
 # 9.
 ![Screenshot (51)](https://user-images.githubusercontent.com/65975985/114258106-7fc7d180-99ee-11eb-9528-f83d1755ef97.png)
-# 10.
-![Screenshot (52)](https://user-images.githubusercontent.com/65975985/114258107-80f8fe80-99ee-11eb-8e10-e13ae5faa424.png)
-# 11.
-![Screenshot (53)](https://user-images.githubusercontent.com/65975985/114258108-822a2b80-99ee-11eb-9675-afa8463b9b27.png)
-# 12.
-![Screenshot (54)](https://user-images.githubusercontent.com/65975985/114258114-94a46500-99ee-11eb-9332-ed12811c9e1e.png)
-# 13.
-![Screenshot (55)](https://user-images.githubusercontent.com/65975985/114258115-966e2880-99ee-11eb-8066-6ec38bb01f42.png)
-# 14.
-![Screenshot (56)](https://user-images.githubusercontent.com/65975985/114258116-9837ec00-99ee-11eb-80b8-2d05fccb1aa3.png)
-# 15.
-![Screenshot (57)](https://user-images.githubusercontent.com/65975985/114258121-99691900-99ee-11eb-8794-1f483d83c69e.png)
-
+# Pertanyaan & Tugas
+1. ada pada nomor 10.
+2. H1 hanya untuk heading biasa (judul) sedangkan #intro H1 fungsinya hanya untuk Tag H1.
+3. Untuk Internal CSS & Inline CSS itu tergantung yang mana terlebih dahulu ditempatkan. Jika Internal CSS berada dibawah <style> maka dia dulu yang akan muncul. begitupun sebaliknya (Inline CSS). sedangkan untuk External CSS akan muncul ketika Internal CSS & Inline CSS tidak ada.
+4. 
 
 
