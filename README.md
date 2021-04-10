@@ -1,12 +1,12 @@
 # Lab2Web
 # Praktikum 2
-# 1.
+# 1. Mengubah Background menjadi biru
 ![Screenshot (43)](https://user-images.githubusercontent.com/65975985/114258060-2fe90a80-99ee-11eb-9370-1b42c2dca452.png)
-# 2.
+# 2. Contoh External CSS
 ![Screenshot (44)](https://user-images.githubusercontent.com/65975985/114258072-43947100-99ee-11eb-87af-424b5022d406.png)
-# 3.
+# 3. Contoh Inline CSS
 ![Screenshot (45)](https://user-images.githubusercontent.com/65975985/114258075-50b16000-99ee-11eb-8b9a-2c609375cb24.png)
-# 4.
+# 4. 
 ![Screenshot (46)](https://user-images.githubusercontent.com/65975985/114258091-6d4d9800-99ee-11eb-93f1-3403ea5416a4.png)
 # 5.
 ![Screenshot (47)](https://user-images.githubusercontent.com/65975985/114258092-6faff200-99ee-11eb-86c0-d188720e36eb.png)
@@ -19,9 +19,11 @@
 # 9.
 ![Screenshot (51)](https://user-images.githubusercontent.com/65975985/114258106-7fc7d180-99ee-11eb-9528-f83d1755ef97.png)
 # Pertanyaan & Tugas
-1. ada pada nomor 10.
+1. ![Screenshot (22)](https://user-images.githubusercontent.com/65975985/114258493-02519080-99f1-11eb-9716-9ea8c5f9a379.png)
 2. H1 hanya untuk heading biasa (judul) sedangkan #intro H1 fungsinya hanya untuk Tag H1.
 3. Untuk Internal CSS & Inline CSS itu tergantung yang mana terlebih dahulu ditempatkan. Jika Internal CSS berada dibawah <style> maka dia dulu yang akan muncul. begitupun sebaliknya (Inline CSS). sedangkan untuk External CSS akan muncul ketika Internal CSS & Inline CSS tidak ada.
-4. 
+4. Keduanya sama" akan muncul. hanya penempatannya saja yang berbeda 
+![Screenshot (23)](https://user-images.githubusercontent.com/65975985/114258569-8d328b00-99f1-11eb-997c-e9ad02aee2ac.png)
+
 
 
