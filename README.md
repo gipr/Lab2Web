@@ -17,8 +17,7 @@
 # 8. Menambahkan CSS Selector
 ![Screenshot (51)](https://user-images.githubusercontent.com/65975985/114258106-7fc7d180-99ee-11eb-9528-f83d1755ef97.png)
 # Pertanyaan & Tugas
-1. 
-![Screenshot (22)](https://user-images.githubusercontent.com/65975985/114258493-02519080-99f1-11eb-9716-9ea8c5f9a379.png)
+1. ![Screenshot (22)](https://user-images.githubusercontent.com/65975985/114258493-02519080-99f1-11eb-9716-9ea8c5f9a379.png)
 2. H1 hanya untuk heading biasa (judul) sedangkan #intro H1 fungsinya hanya untuk Tag H1.
 3. Untuk Internal CSS & Inline CSS itu tergantung yang mana terlebih dahulu ditempatkan. Jika Internal CSS berada dibawah <style> maka dia dulu yang akan muncul. begitupun sebaliknya (Inline CSS). sedangkan untuk External CSS akan muncul ketika Internal CSS & Inline CSS tidak ada.
 4. Keduanya sama" akan muncul. hanya penempatannya saja yang berbeda 
